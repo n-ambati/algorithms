@@ -1,6 +1,6 @@
 Algorithms to implement:
 * [x] Linear Search
-* [ ] Binary Search
+* [x] Binary Search
 * [ ] Bubble Sort
 * [ ] Selection Sort
 * [ ] Insertion Sort
